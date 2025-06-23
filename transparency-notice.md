@@ -52,6 +52,6 @@ If you have any questions, concerns, or wish to exercise your rights regarding t
 
 We may update this transparency notice from time to time. When we do, we will revise the "last updated" date at the bottom of this page. Changes to this notice are effective when they are posted on this page. Existing Qiskit advocates will be asked to acknowledge and agree to any updated changes that impact the data we collect and/or how we use their data.
 
-**Last Updated**
+**Last Updated**  
 23 June 2025
 - To add in 'IAM ID' to collected data where provided by advocates.
