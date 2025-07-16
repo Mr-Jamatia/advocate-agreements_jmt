@@ -11,13 +11,14 @@ When you apply to the Qiskit advocate program or update your details as an exist
 - Gender identity (optional)
 - Country of residence
 - Email address
-- IBMid email address and user ID for IBM Quantum Platform (classic)
 - IBM Cloud account email address and IAM ID
 - Profession
 - Institution
 - Discord username
 - Slack display name
 - GitHub profile link
+- Other profile links (e.g. personal website, LinkedIn) (optional)
+- Confirmation of age 18+
 
 When you submit a points claim by completing a points-eligible activity in the program, you will be asked for non-personal information about the activity you engaged in, which we collect. We will not collect activity data from you via any other method, e.g. the Qiskit advocate hub on Discord.
 
@@ -54,5 +55,7 @@ If you have any questions, concerns, or wish to exercise your rights regarding t
 We may update this transparency notice from time to time. When we do, we will revise the "last updated" date at the bottom of this page. Changes to this notice are effective when they are posted on this page. Existing Qiskit advocates will be asked to acknowledge and agree to any updated changes that impact the data we collect and/or how we use their data.
 
 **Last Updated**  
-26 June 2025
-- To add in Classic IQP 'user ID' to collected data where provided by advocates.
+16 July 2025
+- To remove "IBMid email address and user ID for IBM Quantum Platform (classic)" from data collected due to the sunset of the IBM Quantum Platform (classic). Please note that if you have been a Qiskit advocate prior to 2025 and have previously provided this data, this data will continue to be stored up to 31 Dec 2025 and deleted thereafter.
+- To add "Other profile links (e.g. personal website, LinkedIn) (optional)" and "Confirmation of age 18+" to the data collected when applying to the program. 
+
